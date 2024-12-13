@@ -1,0 +1,110 @@
+#header{
+
+    background-color:black;
+    height:100px;
+    
+ 
+    
+ }
+ 
+ a:hover{
+     color: blue;
+ }
+ a{
+     color:white;
+ }
+
+ 
+ figure { 
+     background-color: white; 
+     border: solid black 1px; 
+     padding: 10px; 
+     width: fit-content; 
+     float: left; 
+ }
+
+
+ article{
+     display: table-cell;
+     width: 70%;
+     height: 100%;
+             
+ }
+ .items{
+     padding-left:10px;
+ }
+
+ 
+
+ h4{
+    text-align: center;
+     margin-top:-20px;
+ }
+ 
+
+body {
+    line-height:40px;
+  
+}
+
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+   
+}
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+}
+table tbody tr:nth-child(odd) {
+    background-color:white;
+}
+table tbody tr:nth-child(even) {
+    background-color:gray;
+}
+
+
+footer {
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding:30px;
+    margin-top:50px;
+}
+header{
+    background-color: black;
+    padding-top:40px;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+}
+.left{
+    float:left;
+}
+.textleft{
+    padding: 30px 5px 0px 20px;
+    display: inline-block;
+   
+    
+}
+.right{
+    float:right;
+}
+.textright{
+    padding: 30px 5px 0px 20px;
+    display: inline-block;
+    
+}
+h2{
+    text-align: center;
+}
+h3 a{
+    color: black;
+}
+    
+           
